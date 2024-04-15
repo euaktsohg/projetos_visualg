@@ -3,7 +3,6 @@ Algoritmo "programa de calculos"
 
 Var
 // Seção de Declarações das variáveis
-escreval ("esse projeto esta no github")
 largura:real
 altura:real
 area:real
@@ -101,4 +100,6 @@ outrocaso
 
 fimescolha
 
+ escreval ("este aplicativo esta no github")
+ 
 Fimalgoritmo
